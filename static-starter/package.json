@@ -1,0 +1,28 @@
+{
+  "name": "static-starter",
+  "version": "0.5.0",
+  "description": "Boiler plate for creating static Bootstrap 5 site w/ Gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BennyBlockchain/static-starter.git"
+  },
+  "author": "₿enny ₿lockchain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BennyBlockchain/static-starter/issues"
+  },
+  "homepage": "https://github.com/BennyBlockchain/static-starter#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^2.0.1"
+  }
+}
